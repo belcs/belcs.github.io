@@ -1,1 +1,1 @@
-###CS course page of Baku European Lyceum
+# CS course page of Baku European Lyceum
